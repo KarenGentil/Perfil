@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(206, 206, 201);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+section{
+    background-color: rgb(206, 206, 201);
+    margin: 190px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+img{
+    align-items: center;
+    width: 500px;
+    border-radius: 20px;
+    
+}
+
+h1{
+    justify-content: center;
+}
+ul, li {
+    list-style-type: none; /* Remove as bolinhas */
+    padding-left: 69px; /* Remove o recuo padrão */
+    margin: 20px; /* Remove a margem padrão, se necessário */
+  }
+
+  footer{
+    background-color: beige;
+    justify-content: center;
+  }
