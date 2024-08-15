@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(20, 138, 138);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+p{
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.fotos{
+  
+    text-align: center;
+}
+img{
+   
+   width: 500px;
+    border-radius: 50px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+h1{
+    justify-content: center;
+}
+
+
+  footer{
+    padding: 20px 0;
+    background-color:rgb(20, 138, 138);
+    justify-content: center;
+  }
